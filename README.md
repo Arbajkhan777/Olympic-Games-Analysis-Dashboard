@@ -9,7 +9,8 @@ Welcome to the **Olympics Games Power BI Dashboard** repository! This dashboard 
 - **Country Insights**: Detailed analysis of individual country performance over the years.
 - **Timeline View**: A historical timeline of the Olympic Games, showcasing major highlights and trends.
 
-## 📊 Dashboard Link: https://app.powerbi.com/groups/me/reports/1f7aa4c9-c6b6-4771-aba6-69e223907ade/1cf84399aae79b86e7e2?experience=power-bi
+
+[Click here to view the live dashboard](https://app.powerbi.com/groups/me/reports/1f7aa4c9-c6b6-4771-aba6-69e223907ade/1cf84399aae79b86e7e2?experience=power-bi)
 
 ## 📊 Dashboard Preview
 
