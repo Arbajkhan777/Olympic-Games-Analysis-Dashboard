@@ -16,8 +16,6 @@ Welcome to the **Olympics Games Power BI Dashboard** repository! This dashboard 
 
 ![image](https://github.com/user-attachments/assets/28d517b2-7801-4d84-ae38-dd0168e097eb)
 
-![Olympics Dashboard Preview](https://github.com/user-attachments/assets/28d517b2-7801-4d84-ae38-dd0168e097eb)
-
 ## 🛠️ Tools and Technologies
 
 - **Power BI**: For creating interactive and visually appealing data visualizations.
