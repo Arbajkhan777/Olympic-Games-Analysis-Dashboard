@@ -17,7 +17,7 @@ Welcome to the **Olympics Games Power BI Dashboard** repository! This dashboard 
 ## 🛠️ Tools and Technologies
 
 - **Power BI**: For creating interactive and visually appealing data visualizations.
-- **Data Source**: Paris 2024 Olympic Summer Games: PETRO
+- **Data Source**: Kaggle (Paris 2024 Olympic Summer Games: PETRO)
 
 ## 🚀 Getting Started
 
